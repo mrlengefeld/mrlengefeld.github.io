@@ -1,0 +1,7 @@
+git clone https://github.com/mrlengefeld/mrlengefeld.github.io
+cd mrlengefeld.github.io
+echo "Hello World" > index.html
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
